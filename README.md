@@ -36,14 +36,14 @@ tratamiento antes del modelado. Las columnas afectadas y el conteo de valores fa
 
 ## Distribuciones
 
-![Distribución de la variable edad](<img width="876" height="692" alt="Image" src="https://github.com/user-attachments/assets/f88ab5ae-8402-4fd9-9d19-30acfb6fef3b" />)
+<img width="876" height="692" alt="Image" src="https://github.com/user-attachments/assets/f88ab5ae-8402-4fd9-9d19-30acfb6fef3b" />
 
 El histograma de la variable age muestra una distribución sesgada hacia la derecha. La gran
 mayoría de los clientes se concentra en el rango de 30 a 40 años, y la frecuencia disminuye
 significativamente después de los 60 años. Esto es un hallazgo relevante para el perfilamiento
 del cliente y para la posible segmentación o discretización de la edad.
 
-![Distribución de la variable job.](<img width="786" height="719" alt="Image" src="https://github.com/user-attachments/assets/9af7b76a-9d78-49cd-b8b8-36dc13be1d3e" />)
+<img width="786" height="719" alt="Image" src="https://github.com/user-attachments/assets/9af7b76a-9d78-49cd-b8b8-36dc13be1d3e" />
 
 El gráfico de conteo de la variable job revela que el grueso de la base de clientes bancarios se
 concentra en las categorías de "admin." y "blue-collar", siendo estos dos grupos los más
@@ -51,7 +51,7 @@ numerosos en el dataset, superando los 8,500 registros cada uno. Les siguen en i
 clientes clasificados como "technician" y "services", mientras que las categorías de menor
 representación incluyen a los "unknown" (desconocido), "housemaid" y "unemployed".
 
-![Relación entre age y duration.](<img width="895" height="719" alt="Image" src="https://github.com/user-attachments/assets/f0b1267a-ba6b-4a10-9edc-dea5c1cb2061" />)
+<img width="895" height="719" alt="Image" src="https://github.com/user-attachments/assets/f0b1267a-ba6b-4a10-9edc-dea5c1cb2061" />
 
 El gráfico de líneas que compara la duration promedio de la llamada en función de la age (edad)
 del cliente revela una tendencia general de estabilidad en la duración del contacto para la mayor
